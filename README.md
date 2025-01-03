@@ -75,6 +75,6 @@ Caso tenha dúvidas ou sugestões, entre em contato:
 
 - **Nome:** Leonardo Souza
 - **Instagram:** @embarcado_tech  
-- **GitHub:** [\[Seu GitHub\]](https://github.com/leocsbh007)
+- **GitHub:** https://github.com/leocsbh007
 
 
